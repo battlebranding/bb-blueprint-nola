@@ -27,7 +27,9 @@ get_header(); ?>
 			<a class="button is-outlined" href="<?php echo home_url('menu'); ?>">View The Menu</a>
 		</div>
 	</div>
-	<div class="overlay"></div>
+	<div class="overlay">
+		<span class="caption">Sweet &amp; Spicy Salmon &amp; Shrimp</span>
+	</div>
 </header>
 
 <section class="restaurant" style="background-color: #fff; color: #fff;">
