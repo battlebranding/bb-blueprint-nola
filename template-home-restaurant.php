@@ -62,20 +62,10 @@ get_header(); ?>
 <section class="restaurant">
 	<div class="section-body has-text-centered">
 		<div class="wrapper">
-			<div class="columns">
-				<div class="column">
-					<h2>Lunch</h2>
-					<hr class="is-small" />
-					<p>Monday - Friday<br />11:00 AM - 3:00 PM</p>
-					<a class="button is-outlined" href="<?php echo home_url('menu/lunch'); ?>">View Menu</a>
-				</div>
-				<div class="column">
-					<h2>Dinner</h2>
-					<hr class="is-small" />
-					<p>Sunday - Saturday<br />11:00 AM - 10:00 PM</p>
-					<a class="button is-outlined" href="<?php echo home_url('menu/dinner'); ?>">View Menu</a>
-				</div>
-			</div>
+			<h2>Open Monday - Sunday, 11:00 AM - 10:00 PM</h2>
+			<hr class="is-small" />
+			<p>Lunch is served Monday - Friday, 11:00 AM - 3:00 PM</p>
+			<a class="button is-outlined" href="<?php echo home_url('menu'); ?>">View Menu</a>
 		</div>
 	</div>
 </section>
