@@ -5,9 +5,9 @@
 			<hr class="is-small" />
 			<p>It would be our honor for you to share your positive experience with us on your favorite social network.</p>
 			<ul class="menu is-horizontal">
-				<li><i class="fa fa-facebook icon is-medium" aria-hidden="true"></i></li>
-				<li><i class="fa fa-instagram icon is-medium" aria-hidden="true"></i></li>
-				<li><i class="fa fa-twitter icon is-medium" aria-hidden="true"></i></li>
+				<li><a href="https://facebook.com/eatatnola"><i class="fa fa-facebook icon is-medium" aria-hidden="true"></i></a></li>
+				<li><a href="https://instagram.com/eatatnola"><i class="fa fa-instagram icon is-medium" aria-hidden="true"></a></i></li>
+				<li><a href="https://twitter.com/eatatnola"><i class="fa fa-twitter icon is-medium" aria-hidden="true"></i></a></li>
 			</ul>
 		</div>
 	</div>
